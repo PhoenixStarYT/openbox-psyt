@@ -1,0 +1,9 @@
+0
+/home/koen/.config/variety/Downloaded/Bing/OHR.MiamiDT_EN-US0878462019_1920x1080.jpg
+/usr/share/images/desktop-base/desktop-background.xml
+/home/koen/.config/variety/Downloaded/Bing/OHR.KilimanjaroElephants_EN-US1249382486_1920x1080.jpg
+/usr/share/images/desktop-base/desktop-background.xml
+/home/koen/.config/variety/Downloaded/flickr_user_www_flickr_com_photos_peter_levi__user_id_93647178_N00_/7527875956_6c2cd8a27c_o.jpg
+/usr/share/images/desktop-base/desktop-background.xml
+/home/koen/.config/variety/Downloaded/flickr_user_www_flickr_com_photos_peter_levi__user_id_93647178_N00_/7527884426_ca3f9bf573_o.jpg
+/usr/share/images/desktop-base/desktop-background.xml

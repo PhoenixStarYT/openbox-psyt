@@ -1,0 +1,4 @@
+bash ~/.screenlayout/def.sh &
+variety &
+tint2 &
+picom --config ~/.config/picom.conf
